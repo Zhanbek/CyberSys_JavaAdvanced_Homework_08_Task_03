@@ -1,4 +1,4 @@
-package Homework_07_Task_04;
+package Homework_08_Task_03;
 
 public class PriorityThread extends Thread {
 
